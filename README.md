@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <a href="#" alt="API Trip"> API Cubos Bank </a>
+    <a href="#" alt="API Trip"> API Bank </a>
 </h1>
 
 <h3 align="center">
